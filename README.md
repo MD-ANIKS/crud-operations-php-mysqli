@@ -68,6 +68,10 @@ This project is a simple Employee Management System built using PHP, MySQLi, Jav
 ### Delete Confirmation Modal
 ![Delete Modal](screenshots/delete_confirmation_modal.png)
 
+### MySQL Database Screenshot
+This screenshot shows the structure of the MySQL database, including the tables used to store employee data.
+![MySQL Database Screenshot](screenshots/mysql_database.png)
+
 ## Contributing
 
 1. Fork the repository.
